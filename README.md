@@ -1,1 +1,2 @@
-# duolingoclone
+# app_clone
+This project is a front-end clone of the Duolingo language learning application, created as part of a personal learning initiative. It replicates key visual and structural elements of the original app, including circular level buttons arranged in a zig-zag layout and a clean, user-friendly interface. The primary goal was to strengthen skills in layout design, responsiveness, and user experience. This is a static prototype developed for educational and portfolio purposes only, without any backend functionality or real user interaction.
